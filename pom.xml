@@ -7,6 +7,8 @@
     <groupId>org.example</groupId>
     <artifactId>msa3Employees</artifactId>
     <version>1.0-SNAPSHOT</version>
-<build>customer-msa3</build>
+<build>
+        <finalName>customer-msa3</finalName>
+</build>
 
 </project>
